@@ -1,0 +1,16 @@
+{
+  "name": "phone-app",
+  "version": "1.0.0",
+  "description": "a web phone app",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zichun Gao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "peer": "^1.0.0",
+    "peerjs": "^1.4.7"
+  }
+}
